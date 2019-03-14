@@ -6,8 +6,9 @@
 	This program uses features of object-oriented programming and file handling for better encryption and decryption system.
 
 Program Structure:
-	The program consists of four steps
-		* First it shows the menu 
-		* Then it get input of the string for encrypton or decryption 
-		* Get input of the password for encryption or decryption
-		* Finally shows user the output string
+The program consists of four steps
+	
+* First it shows the menu 
+* Then it get input of the string for encrypton or decryption 
+* Get input of the password for encryption or decryption
+* Finally shows user the output string
