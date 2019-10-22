@@ -11,7 +11,7 @@ The program consists of four steps:
 * Get input of the password for encryption or decryption
 * Finally shows user the output string
 
-  ``` cpp
+  ```cpp
 //*******************************//
 /*   Encryption & Decrlyption   */
 //*******************************//
