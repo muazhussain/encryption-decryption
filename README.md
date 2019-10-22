@@ -10,23 +10,7 @@ The program consists of four steps:
 * Then it get input of the string for encrypton or decryption 
 * Get input of the password for encryption or decryption
 * Finally shows user the output string
-```cpp
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @muazhussain Sign out
-0
-0 0 muazhussain/encryption-decryption
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights  Settings
-encryption-decryption/source_code(encryption_decrypton).cpp
-@muazhussain muazhussain Update and rename README.md to source_code(encryption_decrypton).cpp
-65f62a6  an hour ago
-172 lines (152 sloc)  4.93 KB
   
 //*******************************//
 /*   Encryption & Decrlyption   */
