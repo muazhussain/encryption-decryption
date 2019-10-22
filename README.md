@@ -11,7 +11,7 @@ The program consists of four steps:
 * Get input of the password for encryption or decryption
 * Finally shows user the output string
 
-  
+  ``` cpp
 //*******************************//
 /*   Encryption & Decrlyption   */
 //*******************************//
@@ -183,3 +183,5 @@ void encryption_decryption :: set_input_string(string s2){
 
 encryption_decryption :: ~encryption_decryption(){
     }
+    
+    ```
