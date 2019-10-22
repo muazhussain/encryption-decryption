@@ -7,7 +7,7 @@ Program Structure:
 The program consists of four steps:
 	
 * First it shows the menu 
-* Then it get input of the string for encrypton or decryption 
+* Then it get input of the string for encryption or decryption 
 * Get input of the password for encryption or decryption
 * Finally shows user the output string
 
