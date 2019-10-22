@@ -183,19 +183,3 @@ void encryption_decryption :: set_input_string(string s2){
 
 encryption_decryption :: ~encryption_decryption(){
     }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
-
-
-```
