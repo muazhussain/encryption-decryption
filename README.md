@@ -11,6 +11,10 @@ The program consists of four steps:
 * Get input of the password for encryption or decryption
 * Finally shows user the output string
 
+```
+
+Source Code:
+
 //*******************************//
 /*   Encryption & Decrlyption   */
 //*******************************//
@@ -32,6 +36,7 @@ class encryption_decryption{
         char ch;
         void do_encryption(); // Function for encryption
         void do_decryption(); // Function for decryption
+        
     public:
         encryption_decryption();
         encryption_decryption(string); // Constractor
@@ -47,9 +52,11 @@ int main(){
     string string_input;
     string pass;
     encryption_decryption obj;
+    
     cout << "***************************" << endl;
     cout << "  ENCRYPTION & DECRYPTION" << endl;
     cout << "***************************" << endl;
+    
     bool process_continue = true;
     while(process_continue){
     cout << "\n\nMain Menu::" << endl << endl;
@@ -57,10 +64,10 @@ int main(){
     cout << "2. Decryption" << endl;
     cout << "3. Exit" << endl << endl;
     cout << "Enter Option(1-3): ";
-    .
+    
         int op;
         cin >> op;
-     ....   
+        
         switch(op){
             case 1:
                 cout << "Enter the word to encrypt: ";
